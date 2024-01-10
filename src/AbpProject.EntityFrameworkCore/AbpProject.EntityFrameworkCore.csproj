@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\AbpProject.Common\AbpProject.Common.csproj" />
       <ProjectReference Include="..\AbpProject.Domain\AbpProject.Domain.csproj" />
     </ItemGroup>
 
